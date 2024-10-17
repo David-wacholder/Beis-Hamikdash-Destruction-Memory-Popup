@@ -28,3 +28,5 @@ This project is based on the amazing work by [Moshe Lavi](https://github.com/mos
 ---
 
 May this small reminder help us reflect and remember what was lost. 🕊️
+
+<sub><sup>⚙️ This content was generated with the assistance of Gen AI.</sup></sub>
