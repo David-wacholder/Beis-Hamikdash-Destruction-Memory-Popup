@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Beis Hamikdash Destruction Memory Popup
-// @namespace    https://mitmachim.top/uid/439
+// @namespace    https://github.com/David-wacholder
 // @version      1.1
 // @description  Add a popup for the memory of the Temple's destruction on all websites
 // @author       David Wacholder
